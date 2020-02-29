@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>indir (14).jpg</filename>
+	<path>C:\Users\suleymansanli\Desktop\data\images\train\indir (14).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>11</ymin>
+			<xmax>185</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>
